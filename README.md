@@ -1,4 +1,4 @@
 # HTML CSS 101 | Knowledge Check 
 Recreate the image in this repository using HTML and CSS in 15 minutes. 
 
-Create a Box using CSS and insert content insite box using HTML and CSS
+Created a container using CSS and inserted content insite container using HTML and CSS
