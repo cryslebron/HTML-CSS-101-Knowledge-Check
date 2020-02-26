@@ -1,0 +1,28 @@
+   
+   .alignment {
+    text-align: center;
+    font-weight: bold;
+    
+   }
+   #container {
+        border: 8px solid black;
+        width: 800px;
+        /* height: 500px; */
+        margin: auto;
+        padding: 100px;
+        /* position: center; */
+        resize: both;
+    }
+.center{
+    text-align: center;
+  
+       
+}
+
+ 
+#boder{
+    border-top: inset;
+    border-bottom: outset;
+    align-content: center;
+    object-fit: fill;
+}
